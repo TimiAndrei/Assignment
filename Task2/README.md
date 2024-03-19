@@ -6,7 +6,7 @@ I built the docker image using "docker build -t assignment-app .":
 
 ![Docker images](https://github.com/TimiAndrei/Assignment/blob/c7bbe1433256c877529fe202d07b045c35995e95/Task2/screenshots/2.1%20docker%20image%20created.png)
 
-I then ran the container with the --rm tag for it to delete itself after execution "docker run -it --rm assignment-app":
+I then ran the container with the --rm tag for it to deletes itself after execution "docker run -it --rm assignment-app":
 
 ![Container](https://github.com/TimiAndrei/Assignment/blob/c7bbe1433256c877529fe202d07b045c35995e95/Task2/screenshots/2.2%20ran%20the%20container.png)
 
